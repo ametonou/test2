@@ -2,3 +2,4 @@
 getwd()
 data(iris)
 head(iris)
+pairs(iris)
